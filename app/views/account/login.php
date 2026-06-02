@@ -24,15 +24,10 @@
                                 
                                 <button class="btn btn-outline-light btn-lg px-5" type="submit">Login</button>
                                 
-                                <hr class="my-4" style="border-top: 1px solid #666;">
-                                <p class="text-white-50">Hoặc đăng nhập bằng:</p>
-                                <div class="d-grid gap-3 mt-4 pt-1">
-                                    <a href="/webbanhang/account/googleLogin" class="btn btn-danger btn-lg text-white" style="background-color: #dd4b39; border: none;">
-                                        <i class="fab fa-google me-2"></i> Đăng nhập bằng Google
-                                    </a>
-                                    <a href="/webbanhang/account/githubLogin" class="btn btn-dark btn-lg text-white" style="background-color: #333; border: none;">
-                                        <i class="fab fa-github me-2"></i> Đăng nhập bằng GitHub
-                                    </a>
+                                <div class="d-flex justify-content-center text-center mt-4 pt-1">
+                                    <a href="#!" class="text-white"><i class="fab fa-facebook-f fa-lg"></i></a>
+                                    <a href="#!" class="text-white"><i class="fab fa-twitter fa-lg mx-4 px-2"></i></a>
+                                    <a href="/webbanhang/account/googleLogin" class="text-white"><i class="fab fa-google fa-lg"></i></a>
                                 </div>
                             </div>
                             
